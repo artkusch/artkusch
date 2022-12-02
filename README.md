@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artkusch
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning java / c++
+- 🌱 I’m currently learning python
 
 <!---
 artkusch/artkusch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,6 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Back-end python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Voronezh, Russia</h3>
 
+
+```python
+while artkusch != backend.senior:
+    artkusch.workhard = True
+```
+
+
 ### :man_technologist: About Me :
 
 - :telescope: I’m building web applications.

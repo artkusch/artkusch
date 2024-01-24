@@ -15,8 +15,6 @@ while artkusch != backend.senior:
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I ride a bike.
-
 - :mailbox:How to reach me:  [![Telegram Badge](https://img.shields.io/badge/Telegram-grey?logo=telegram&logoColor=white)](https://t.me/artkusch)
   
 ---
